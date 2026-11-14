@@ -1,0 +1,2 @@
+# fps_converter uses Python standard library only (no external pip dependencies required).
+# Requires FFmpeg and ffprobe installed on system PATH.
